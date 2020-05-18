@@ -58,7 +58,7 @@ footer {
 }
 
 .right {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 #footerLogo {
@@ -102,6 +102,7 @@ footer .right p {
 
   .right {
     flex: 1;
+    padding-top: 100px;
   }
   .logo {
     flex: 1;
